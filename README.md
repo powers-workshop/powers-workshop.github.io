@@ -7,17 +7,27 @@ As they link the static structure of the world (i.e., the endurants/continuants 
 Still, despite the prolific results, several open issues remain to be explored.
 Thus, the purpose of this workshop is to provide a venue for researchers and practitioners to present their work on dispositions and other realizable entities on issues including:
 
--- Characterization and formalization of realizable entities (e.g., single vs. multi-track dispositions, degree of realization, formalisms for reasoning based on dispositions)
--- Types of realizable entities (e.g., discussions on whether some core entities such as roles and biological/artifactual functions are realizable) and analysis of the contrast between dispositional and non-dispositional realizable entities
--- Relation between realizable entities and entities from other categories (e.g., qualities, events)
--- Domain applications (e.g., biology, health sciences, industry, enterprise modeling)
--- Philosophical investigations relevant to formal ontology, including:
--- Is the distinction between realizable and non-realizable (sometimes called “categorical”) properties metaphysical or linguistic? 
--- Intrinsicness vs. extrinsicness of realizable entities
--- How may the distinction between dispositions and powers be relevant for formal ontology?
--- Can dispositions provide a good account of causation?
--- How could blocks, finks, and antidotes be relevant for applied ontology?
--- Can dispositions offer a good substitute for laws of nature in ontology?
+* Characterization and formalization of realizable entities (e.g., single vs. multi-track dispositions, degree of realization, formalisms for reasoning based on dispositions)
+
+* Types of realizable entities (e.g., discussions on whether some core entities such as roles and biological/artifactual functions are realizable) and analysis of the contrast between dispositional and non-dispositional realizable entities
+
+* Relation between realizable entities and entities from other categories (e.g., qualities, events)
+
+* Domain applications (e.g., biology, health sciences, industry, enterprise modeling)
+
+* Philosophical investigations relevant to formal ontology, including:
+
+* Is the distinction between realizable and non-realizable (sometimes called “categorical”) properties metaphysical or linguistic? 
+
+* Intrinsicness vs. extrinsicness of realizable entities
+
+* How may the distinction between dispositions and powers be relevant for formal ontology?
+
+* Can dispositions provide a good account of causation?
+
+* How could blocks, finks, and antidotes be relevant for applied ontology?
+
+* Can dispositions offer a good substitute for laws of nature in ontology?
 
 ## Audience
 
