@@ -1,8 +1,10 @@
 # IMPORTANT DATES
 
-**Paper submission deadline**: _31 May 2025_
-**Authors notification**: _14 July 2025_
-**Camera-ready submission**: _1 September 2025_
+* **Paper submission deadline**: _31 May 2025_
+
+* **Authors notification**: _14 July 2025_
+
+* **Camera-ready submission**: _1 September 2025_
 
 * * *
 There is a long-standing view according to which potency precedes  actuality. Under this view, the happening of an event consists in the realization or manifestation of potentialities that already exist in the event’s participants. Indeed, the world seems full of entities that encapsulate such potentialities, which we usually refer to as realizable entities, with dispositions being among the most significant. 
