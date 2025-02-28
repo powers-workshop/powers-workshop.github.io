@@ -48,5 +48,9 @@ Thus, the purpose of this workshop is to provide a venue for researchers and pra
 
 This interdisciplinary workshop is intended for researchers and practitioners interested in both applied and fundamental aspects of realizable entities. Information and computer scientists, philosophers, cognitive scientists, linguists, conceptual modelers, domain experts, and professionals from related disciplines are very welcome to participate.
 
-## 
+## Organizers
+
+* Fabrício Henrique Rodrigues (Federal University of Rio Grande do Sul, Brazil)
+
+* Adrien Barton (CNRS, IRIT, Université de Toulouse, France)
 
