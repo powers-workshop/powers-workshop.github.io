@@ -3,7 +3,7 @@
 
 ### IMPORTANT DATES
 
-* **Paper submission deadline**: _31 May 2025_
+* **Paper submission deadline**: _1 June 2025_
 
 * **Authors notification**: _14 July 2025_
 
