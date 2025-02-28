@@ -1,4 +1,4 @@
-## IMPORTANT DATES
+
 
 * **Paper submission deadline**: _31 May 2025_
 
