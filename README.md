@@ -1,6 +1,14 @@
 **_Co-located with FOIS 2025 (JOWO Workshops) - Catania, September 8-12, 2025_**
 * * *     
 
+### IMPORTANT DATES
+
+* **Paper submission deadline**: _31 May 2025_
+
+* **Authors notification**: _14 July 2025_
+
+* **Camera-ready submission**: _1 September 2025_
+
 ## About
 
 There is a long-standing view according to which potency precedes  actuality. Under this view, the happening of an event consists in the realization or manifestation of potentialities that already exist in the event’s participants. Indeed, the world seems full of entities that encapsulate such potentialities, which we usually refer to as realizable entities, with dispositions being among the most significant. 
@@ -41,13 +49,7 @@ Thus, the purpose of this workshop is to provide a venue for researchers and pra
 
 This interdisciplinary workshop is intended for researchers and practitioners interested in both applied and fundamental aspects of realizable entities. Information and computer scientists, philosophers, cognitive scientists, linguists, conceptual modelers, domain experts, and professionals from related disciplines are very welcome to participate.
 
-### IMPORTANT DATES
 
-* **Paper submission deadline**: _31 May 2025_
-
-* **Authors notification**: _14 July 2025_
-
-* **Camera-ready submission**: _1 September 2025_
 
 
 ## Organizers
