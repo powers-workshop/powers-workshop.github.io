@@ -54,3 +54,7 @@ This interdisciplinary workshop is intended for researchers and practitioners in
 
 * Adrien Barton (CNRS, IRIT, Université de Toulouse, France)
 
+```
+Contact: powers.workshop@gmail.com
+```
+
