@@ -1,3 +1,10 @@
+# IMPORTANT DATES
+
+**Paper submission deadline**: _31 May 2025_
+**Authors notification**: _14 July 2025_
+**Camera-ready submission**: _1 September 2025_
+
+* * *
 There is a long-standing view according to which potency precedes  actuality. Under this view, the happening of an event consists in the realization or manifestation of potentialities that already exist in the event’s participants. Indeed, the world seems full of entities that encapsulate such potentialities, which we usually refer to as realizable entities, with dispositions being among the most significant. 
 
 A disposition is an entity that inheres in another entity and determines the behavior of the latter under certain circumstances. Dispositions are closely related to the causal powers that objects have in the world and encompass what we usually call abilities, capabilities, tendencies, propensities, liabilities, capacities, and so on. Typical examples of dispositions include the fragility of a piece of glass (i.e., the disposition to break in response to being struck), the hydrosolubility of salt (i.e., the disposition to dissolve in water when mixed with it), and the toxicity of a chemical substance (i.e., the disposition of damaging an organism when in contact with it).
@@ -34,17 +41,4 @@ Thus, the purpose of this workshop is to provide a venue for researchers and pra
 This interdisciplinary workshop is intended for researchers and practitioners interested in both applied and fundamental aspects of realizable entities. Information and computer scientists, philosophers, cognitive scientists, linguists, conceptual modelers, domain experts, and professionals from related disciplines are very welcome to participate.
 
 
-<!--
-**powers-workshop/powers-workshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
