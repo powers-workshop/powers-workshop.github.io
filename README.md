@@ -1,4 +1,4 @@
-**_Co-located with FOIS 2025 (JOWO Workshops) - Catania, September 8-12, 2025_**
+**_Part of JOWO Workshops - Catania, Italy - September 8-9, 2025 (Co-located with FOIS 2025)_**
 * * *     
 
 ### IMPORTANT DATES
