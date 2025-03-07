@@ -9,6 +9,8 @@
 
 * **Camera-ready submission**: _1 September 2025_
 
+* **Workshop days**: between 8-9 September 2025
+
 ## About
 
 There is a long-standing view according to which potency precedes  actuality. Under this view, the happening of an event consists in the realization or manifestation of potentialities that already exist in the event’s participants. Indeed, the world seems full of entities that encapsulate such potentialities, which we usually refer to as realizable entities, with dispositions being among the most significant. 
@@ -49,10 +51,16 @@ Thus, the purpose of this workshop is to provide a venue for researchers and pra
 
 This interdisciplinary workshop is intended for researchers and practitioners interested in both applied and fundamental aspects of realizable entities. Information and computer scientists, philosophers, cognitive scientists, linguists, conceptual modelers, domain experts, and professionals from related disciplines are very welcome to participate.
 
+## Submissions
+
+* **Abstract for presentation only**: 2-3 pages, 10-15 minutes presentation (not included in the proceedings)
+
+* **Short papers**: 6-8 pages, 10-15 minutes presentation
+
+* **Full research papers**: max. 10-14 pages, 20-25 minutes presentation
 
 
-
-## Organizers
+## Organization
 
 * Fabrício Henrique Rodrigues (Federal University of Rio Grande do Sul, Brazil)
 
