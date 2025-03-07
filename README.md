@@ -1,7 +1,6 @@
 {::comment}
 **_Part of the 11th Joint Ontology Workshops (JOWO 2025) - Catania, Italy - September 8-9, 2025 (Co-located with FOIS 2025)_**
 * * *     
-{:/comment}
 
 ### IMPORTANT DATES
 
@@ -12,6 +11,8 @@
 * **Camera-ready submission**: _1 September 2025_
 
 * **Workshop days**: between 8-9 September 2025
+
+{:/comment}
 
 ## About
 
