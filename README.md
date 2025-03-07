@@ -1,19 +1,3 @@
-{::comment}
-**_Part of the 11th Joint Ontology Workshops (JOWO 2025) - Catania, Italy - September 8-9, 2025 (Co-located with FOIS 2025)_**
-* * *     
-
-### IMPORTANT DATES
-
-* **Paper submission deadline**: _1 June 2025_
-
-* **Authors notification**: _14 July 2025_
-
-* **Camera-ready submission**: _1 September 2025_
-
-* **Workshop days**: between 8-9 September 2025
-
-{:/comment}
-
 ## About
 
 There is a long-standing view according to which potency precedes  actuality. Under this view, the happening of an event consists in the realization or manifestation of potentialities that already exist in the event’s participants. Indeed, the world seems full of entities that encapsulate such potentialities, which we usually refer to as realizable entities, with dispositions being among the most significant. 
@@ -60,7 +44,7 @@ This interdisciplinary workshop is intended for researchers and practitioners in
 
 * **Short papers**: 6-8 pages, 10-15 minutes presentation
 
-* **Full research papers**: max. 10-14 pages, 20-25 minutes presentation
+* **Full research papers**: 10-14 pages, 20-25 minutes presentation
 
 
 ## Organization
@@ -68,10 +52,4 @@ This interdisciplinary workshop is intended for researchers and practitioners in
 * Fabrício Henrique Rodrigues (Federal University of Rio Grande do Sul, Brazil)
 
 * Adrien Barton (CNRS, IRIT, Université de Toulouse, France)
-
-{::comment}
-```
-Contact: powers.workshop@gmail.com
-```
-{:/comment}
 
