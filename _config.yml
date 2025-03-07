@@ -1,5 +1,6 @@
 title: POWERs 2025
 description: Perspectival Ontology Workshop on Entities that can be Realized
+show_downloads: false
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
