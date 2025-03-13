@@ -47,7 +47,8 @@ This interdisciplinary workshop is intended for researchers and practitioners in
 * **Full research papers**: 10-14 pages, 20-25 minutes presentation
 
 Submissions must follow <a href="https://ceur-ws.org/Vol-XXX/sample-1col.pdf">one-column CEUR style</a>.
-There is an <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw">Overleaf template</a> for LaTeX users. <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip">ODT and DOCX files</a> are also available.
+There is an <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw">Overleaf template</a> for LaTeX users. 
+<a href="http://ceur-ws.org/Vol-XXX/CEURART.zip" download="CEURART.zip">ODT and DOCX files</a> are also available.
 
 
 ## Organization
