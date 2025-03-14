@@ -45,7 +45,7 @@ All contributions must be submitted as a single PDF file and must be formatted a
 
 ## Organization
 
-* Fabrício Henrique Rodrigues - Federal University of Rio Grande do Sul (UFRGS), Brazil
+* Fabrício Henrique Rodrigues -- Federal University of Rio Grande do Sul (UFRGS), Brazil
 
-* Adrien Barton - CNRS, Institut de Recherche en Informatique de Toulouse (IRIT), France
+* Adrien Barton -- CNRS, Institut de Recherche en Informatique de Toulouse (IRIT), France
 
