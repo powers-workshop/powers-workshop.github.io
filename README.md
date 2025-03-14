@@ -41,7 +41,8 @@ We welcome three types of submissions:
 
 * **Full research papers**: 10-14 pages, 20-25 minutes presentation.
 
-Submissions must be sent via Easychair through the link <a href="">https://easychair.org/my/conference?conf=fois2025</a> (select the track “_WS: Entities that can be Realized_”).
+Submissions must be sent via Easychair via <a href="https://easychair.org/my/conference?conf=fois2025">https://easychair.org/my/conference?conf=fois2025</a> (select the track “_WS: Entities that can be Realized_”).
+
 All contributions must be submitted as a single PDF file and must be formatted according to the <a href="https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/">CEUR one-column format</a> (there is an <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw">Overleaf template</a> for LaTeX users).
 
 ## Organization
