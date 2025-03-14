@@ -33,7 +33,7 @@ Topics of interest include (but are not limited to):
 
 ## Submissions
 
-We welcome three types of submissions:
+We welcome three types of contributions:
 
 * **Abstract for presentation only**: 2-3 pages, 10-15 minutes presentation (not included in the proceedings);
 
@@ -41,7 +41,7 @@ We welcome three types of submissions:
 
 * **Full research papers**: 10-14 pages, 20-25 minutes presentation.
 
-Submissions must be sent via Easychair (<a href="https://easychair.org/my/conference?conf=fois2025">https://easychair.org/my/conference?conf=fois2025</a> - select the track “_WS: Entities that can be Realized_”) as a single PDF file and must be formatted according to the <a href="https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/">CEUR one-column format</a>.
+All contributions must be submitted as a single PDF file and must be formatted according to the <a href="https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/">CEUR one-column format</a>. Submissions must be sent via Easychair (<a href="https://easychair.org/my/conference?conf=fois2025">https://easychair.org/my/conference?conf=fois2025</a> - select the track “_WS: Entities that can be Realized_”) 
 
 ## Organization
 
