@@ -54,8 +54,13 @@ All contributions must be submitted as a single PDF file and must be formatted a
 ### Program Comittee (still to be completed)
 
 * Stefano Borgo -- Laboratory for Applied Ontology, ISTC-CNR, Italy
+
 * Rodrigo Calhau  -- Federal Institute of Espírito Santo, Brazil
+
 * Ludger Jansen -- PTH Brixen College, Italy
+
 * Max Kistler -- University Paris 1 Panthéon-Sorbonne, France
+
 * Ítalo Oliveira -- University of Twente, Netherlands
+
 * Fumiaki Toyoshima -- Université de Neuchâtel, Switzerland
