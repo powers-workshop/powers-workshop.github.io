@@ -53,6 +53,8 @@ All contributions must be submitted as a single PDF file and must be formatted a
 
 ### Program Comittee (still to be completed)
 
+* João Paulo Almeida -- Federal University of Espírito Santo, Brazil
+  
 * Stefano Borgo -- Laboratory for Applied Ontology, ISTC-CNR, Italy
 
 * Rodrigo Calhau  -- Federal Institute of Espírito Santo, Brazil
