@@ -51,7 +51,7 @@ All contributions must be submitted as a single PDF file and must be formatted a
 
 * Adrien Barton -- CNRS, Institut de Recherche en Informatique de Toulouse (IRIT), France
 
-### Program Comittee (still to be completed)
+### Program Comittee <span style="color: maroon;">(still to be completed)</span>
 
 * João Paulo Almeida -- Federal University of Espírito Santo, Brazil
   
