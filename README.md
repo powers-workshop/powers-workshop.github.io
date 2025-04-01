@@ -54,6 +54,8 @@ All contributions must be submitted as a single PDF file and must be formatted a
 ### Program Comittee <span style="color: teal;">(still to be completed)</span>
 
 * João Paulo Almeida -- Federal University of Espírito Santo, Brazil
+
+* John Beverley -- University at Buffalo, USA
   
 * Stefano Borgo -- Laboratory for Applied Ontology, ISTC-CNR, Italy
 
