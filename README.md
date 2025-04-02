@@ -65,7 +65,9 @@ All contributions must be submitted as a single PDF file and must be formatted a
 
 * Max Kistler -- University Paris 1 Panthéon-Sorbonne, France
 
-* Ítalo Oliveira -- University of Twente, Netherlands
+* Ítalo Oliveira -- University of Twente, Netherland
+  
+* Barry Smith -- University at Buffalo, USA
 
 * Fumiaki Toyoshima -- Université de Neuchâtel, Switzerland
 
