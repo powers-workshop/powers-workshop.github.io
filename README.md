@@ -61,11 +61,13 @@ All contributions must be submitted as a single PDF file and must be formatted a
 
 * Rodrigo Calhau  -- Federal Institute of Espírito Santo, Brazil
 
+* Giancarlo Guizzardi -- University of Twente, Netherlands
+
 * Ludger Jansen -- PTH Brixen College, Italy
 
 * Max Kistler -- University Paris 1 Panthéon-Sorbonne, France
 
-* Ítalo Oliveira -- University of Twente, Netherland
+* Ítalo Oliveira -- University of Twente, Netherlands
   
 * Barry Smith -- University at Buffalo, USA
 
