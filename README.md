@@ -47,11 +47,17 @@ Submissions must be sent via Easychair (<a href="https://easychair.org/my/confer
 All contributions must be submitted as a single PDF file and must be formatted according to the <a href="https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/">CEUR one-column format</a>.
 --> 
 
-The submissions need to adhere to the one-column CEUR template. Here are instructions from the How To Submit CEUR webpage:
-
-> “_[…] we require that authors use the new CEURART style for writing papers to be published with CEUR-WS. The style is available from Vol-XXX. An Overleaf page for LaTeX users is available as template. […]_
+The submissions need to adhere to the one-column CEUR template. Here are instructions from the <a href="https://ceur-ws.org/HOWTOSUBMIT.html">How To Submit</a> CEUR webpage:
+  
+> “_[…] we require that authors use the new CEURART style for writing papers to be published with CEUR-WS. The style is available from
+> <a href="https://ceur-ws.org/Vol-XXX/">Vol-XXX</a>.
+> An Overleaf page for LaTeX users is available
+> <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw">as template</a>. […]_
 >
-> _You can also download an offline version with the style files from http://ceur-ws.org/Vol-XXX/CEURART.zip. It contains the LaTeX CEURART style and also the ODT (LibreOffice) template file. Do not use Word for the ODT template. We require that the Libertinus font family is used in CEURART. Instructions on installing these fonts are found in the ODT template. […]_”
+> _You can also download an offline version with the style files from
+> <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip">http://ceur-ws.org/Vol-XXX/CEURART.zip</a>.
+> It contains the LaTeX CEURART style and also the ODT (LibreOffice) template file. Do not use Word for the ODT template. We require that the Libertinus font family is used in CEURART. Instructions on installing these fonts are found in the
+> <a herf="https://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt">ODT template</a>. […]_”
 
 
 
