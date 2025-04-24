@@ -41,13 +41,9 @@ We welcome three types of contributions:
 
 * **Full research papers**: 10-14 pages, 20-25 minutes presentation.
 
-<!--
 Submissions must be sent via Easychair (<a href="https://easychair.org/my/conference?conf=fois2025">https://easychair.org/my/conference?conf=fois2025</a> - select the track “_WS: Entities that can be Realized_”).
 
-All contributions must be submitted as a single PDF file and must be formatted according to the <a href="https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/">CEUR one-column format</a>.
---> 
-
-The submissions need to adhere to the one-column CEUR template. Here are instructions from the <a href="https://ceur-ws.org/HOWTOSUBMIT.html">How To Submit</a> CEUR webpage:
+All contributions must be submitted as a single PDF file and must adhere to the one-column CEUR template. Here are instructions from the <a href="https://ceur-ws.org/HOWTOSUBMIT.html">How To Submit</a> CEUR webpage:
   
 > “_[…] we require that authors use the new CEURART style for writing papers to be published with CEUR-WS. The style is available from
 > <a href="https://ceur-ws.org/Vol-XXX/">Vol-XXX</a>.
