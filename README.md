@@ -55,7 +55,7 @@ All contributions must be submitted as a single PDF file and must adhere to the 
 > It contains the LaTeX CEURART style and also the ODT (LibreOffice) template file. Do not use Word for the ODT template. We require that the Libertinus font family is used in CEURART. Instructions on installing these fonts are found in the
 > <a herf="https://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt">ODT template</a>. […]_”
 
-
+Submissions including semantic artefacts, methodologies, softwares, etc, need to adhere to the <a href="https://www.dmi.unict.it/fois2025/?page_id=303">FAIR guidelines</a>.
 
 ## Organization
 
