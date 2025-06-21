@@ -65,7 +65,7 @@ Submissions including semantic artefacts, methodologies, softwares, etc, need to
 
 * Adrien Barton -- CNRS, Institut de Recherche en Informatique de Toulouse (IRIT), France
 
-### Program Comittee <span style="color: teal;">(still to be completed)</span>
+### Program Comittee
 
 * João Paulo Almeida -- Federal University of Espírito Santo, Brazil
 
@@ -86,5 +86,3 @@ Submissions including semantic artefacts, methodologies, softwares, etc, need to
 * Barry Smith -- University at Buffalo, USA
 
 * Fumiaki Toyoshima -- Université de Neuchâtel, Switzerland
-
-* Neil Williams -- University at Buffalo, USA
