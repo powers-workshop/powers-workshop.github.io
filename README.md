@@ -60,7 +60,7 @@ Submissions including semantic artefacts, methodologies, softwares, etc, need to
 ## Organization
 
 ### Workshop Chairs
-d
+
 * Fabrício Henrique Rodrigues -- Federal University of Rio Grande do Sul (UFRGS), Brazil / Samsung R&D Institute, Brazil
 
 * Adrien Barton -- CNRS, Institut de Recherche en Informatique de Toulouse (IRIT), France
