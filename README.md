@@ -1,4 +1,4 @@
-# Workshop Program (Sep 8th)
+## Workshop Program (Sep 8th)
 
 **14h30 - 16h00**
 
