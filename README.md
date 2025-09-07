@@ -1,8 +1,8 @@
 ## <span style="color: #07689C;"> Workshop Program (Sep 8th) </span>
 
-**14h30 - 16h00**
+<span style="color: #07689C;">**14h30 - 16h00**</span>
 
-<span style="color: #07689C;"> **_Dispositions and Roles of Generically Dependent Entities_** <span style="color: #07689C;">
+**_Dispositions and Roles of Generically Dependent Entities_**
 _(Fabian Neuhaus)_
 
 **_Toward a Unified Framework for Realizable Entities: Dispositions, Plans, and Beyond_**
