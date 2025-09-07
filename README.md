@@ -1,20 +1,20 @@
 <hr>
-## <span style="color: #07689C;"> Workshop Program (Sep 8th) </span>
+## <span style="color: #267CB9;"> Workshop Program (Sep 8th) </span>
 
 <span style="color: #267CB9;">14h30 - 16h00</span>
 
 <span style="color: #267CB9;font-weight:bold;">_Dispositions and Roles of Generically Dependent Entities_</span> <br>
 _(Fabian Neuhaus)_
 
-**_Toward a Unified Framework for Realizable Entities: Dispositions, Plans, and Beyond_** <br>
+<span style="color: #267CB9;font-weight:bold;">_Toward a Unified Framework for Realizable Entities: Dispositions, Plans, and Beyond_</span> <br>
 _(Stefan Schulz, Michel Dumontier, Çelebi Remzi, Serafimova Katerina and Catalina Martínez Costa)_
 
-<span style="color: #08699D;font-weight:bold;">16h30 - 18h00</span>
+<span style="color: #08699D;">16h30 - 18h00</span>
 
-**_Triggers and Bases: Extending BFO to Represent the Pahl–Beitz Framework for Working Principles_** <br>
+<span style="color: #267CB9;font-weight:bold;">_Triggers and Bases: Extending BFO to Represent the Pahl–Beitz Framework for Working Principles_</span> <br>
 _(Ludger Jansen and Dilek Yargan)_
 
-**_Challenged by vulnerabilities: a focus on climate change and disaster risk conceptualisations, semantics, and debates_** <br>
+<span style="color: #267CB9;font-weight:bold;">_Challenged by vulnerabilities: a focus on climate change and disaster risk conceptualisations, semantics, and debates_</span> <br>
 _(Greta Adamo, Max Willis, Alessandro Mosca and Anna Sperotto)_
 
 <hr>
