@@ -9,11 +9,13 @@ _(Fabian Neuhaus)_
 _(Stefan Schulz, Michel Dumontier, Çelebi Remzi, Serafimova Katerina and Catalina Martínez Costa)_
 
 **16h30 - 18h00**
-**_Challenged by vulnerabilities: a focus on climate change and disaster risk conceptualisations, semantics, and debates_**
-_(Greta Adamo, Max Willis, Alessandro Mosca and Anna Sperotto)_
 
 **_Triggers and Bases: Extending BFO to Represent the Pahl–Beitz Framework for Working Principles_**
 _(Ludger Jansen and Dilek Yargan)_
+
+**_Challenged by vulnerabilities: a focus on climate change and disaster risk conceptualisations, semantics, and debates_**
+_(Greta Adamo, Max Willis, Alessandro Mosca and Anna Sperotto)_
+
 
 ## About the Workshop
 
