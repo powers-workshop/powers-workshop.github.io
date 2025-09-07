@@ -1,5 +1,5 @@
 <hr>
-## <span style="color: #267CB9;"> Workshop Program (Sep 8th) </span>
+## Workshop Program (Sep 8th)
 
 <span style="color: #267CB9;">14h30 - 16h00</span>
 
