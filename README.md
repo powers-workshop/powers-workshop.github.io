@@ -1,7 +1,7 @@
 <hr>
 ## Workshop Program (Sep 8th)
 
-<span style="color: #267CB9;">14h30 - 16h00</span>
+Sep 8th (14h30 - 16h00)
 
 <span style="color: #267CB9;font-weight:bold;">_Dispositions and Roles of Generically Dependent Entities_</span> <br>
 _(Fabian Neuhaus)_
