@@ -16,6 +16,8 @@ _(Ludger Jansen and Dilek Yargan)_
 **_Challenged by vulnerabilities: a focus on climate change and disaster risk conceptualisations, semantics, and debates_** <br>
 _(Greta Adamo, Max Willis, Alessandro Mosca and Anna Sperotto)_
 
+<hr>
+
 
 ## About the Workshop
 
