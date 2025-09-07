@@ -1,12 +1,16 @@
-# About the Workshop
+# Workshop Program (Sep 8th)
 
-14h30 - 16h00
-Dispositions and Roles of Generically Dependent Entities
-Toward a Unified Framework for Realizable Entities: Dispositions, Plans, and Beyond
+**14h30 - 16h00**
 
-16h30 - 18h00
-Challenged by vulnerabilities: a focus on climate change and disaster risk conceptualisations, semantics, and debates
-Triggers and Bases: Extending BFO to Represent the Pahl–Beitz Framework for Working Principles
+* Dispositions and Roles of Generically Dependent Entities
+
+* Toward a Unified Framework for Realizable Entities: Dispositions, Plans, and Beyond
+
+**16h30 - 18h00**
+
+* Challenged by vulnerabilities: a focus on climate change and disaster risk conceptualisations, semantics, and debates
+
+* Triggers and Bases: Extending BFO to Represent the Pahl–Beitz Framework for Working Principles
 
 ## About the Workshop
 
