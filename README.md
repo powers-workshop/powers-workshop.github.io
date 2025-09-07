@@ -9,7 +9,7 @@ _(Fabian Neuhaus)_
 <span style="color: #267CB9;font-weight:bold;">_Toward a Unified Framework for Realizable Entities: Dispositions, Plans, and Beyond_</span> <br>
 _(Stefan Schulz, Michel Dumontier, Çelebi Remzi, Serafimova Katerina and Catalina Martínez Costa)_
 
-<span style="color: #08699D;">16h30 - 18h00</span>
+**Sep 8th (16h30 - 18h00)**
 
 <span style="color: #267CB9;font-weight:bold;">_Triggers and Bases: Extending BFO to Represent the Pahl–Beitz Framework for Working Principles_</span> <br>
 _(Ludger Jansen and Dilek Yargan)_
