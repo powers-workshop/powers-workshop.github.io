@@ -1,4 +1,4 @@
-## <em style="color: blue;"> Workshop Program (Sep 8th) </em>
+## <em style="color: #0985C8;"> Workshop Program (Sep 8th) </em>
 
 **14h30 - 16h00**
 
