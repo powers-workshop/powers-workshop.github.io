@@ -2,18 +2,18 @@
 
 <span style="color: #07689C;">**14h30 - 16h00**</span>
 
-**_Dispositions and Roles of Generically Dependent Entities_**
+**_Dispositions and Roles of Generically Dependent Entities_** <br>
 _(Fabian Neuhaus)_
 
-**_Toward a Unified Framework for Realizable Entities: Dispositions, Plans, and Beyond_**
+**_Toward a Unified Framework for Realizable Entities: Dispositions, Plans, and Beyond_** <br>
 _(Stefan Schulz, Michel Dumontier, Çelebi Remzi, Serafimova Katerina and Catalina Martínez Costa)_
 
 **16h30 - 18h00**
 
-**_Triggers and Bases: Extending BFO to Represent the Pahl–Beitz Framework for Working Principles_**
+**_Triggers and Bases: Extending BFO to Represent the Pahl–Beitz Framework for Working Principles_** <br>
 _(Ludger Jansen and Dilek Yargan)_
 
-**_Challenged by vulnerabilities: a focus on climate change and disaster risk conceptualisations, semantics, and debates_**
+**_Challenged by vulnerabilities: a focus on climate change and disaster risk conceptualisations, semantics, and debates_** <br>
 _(Greta Adamo, Max Willis, Alessandro Mosca and Anna Sperotto)_
 
 
