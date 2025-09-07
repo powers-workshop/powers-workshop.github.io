@@ -4,7 +4,7 @@
 
 * Dispositions and Roles of Generically Dependent Entities
 
-* **_Toward a Unified Framework for Realizable Entities: Dispositions, Plans, and Beyond_**
+**_Toward a Unified Framework for Realizable Entities: Dispositions, Plans, and Beyond_**
 
 _(Stefan Schulz, Michel Dumontier, Çelebi Remzi, Serafimova Katerina and Catalina Martínez Costa)_
 
