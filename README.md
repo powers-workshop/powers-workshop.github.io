@@ -1,8 +1,6 @@
 ---
 layout: default
 title: POWERs 2026
-dates: September 21-22, 2026
-location: Vitória, Brazil
 ---
 
 ## About the Workshop
