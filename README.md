@@ -10,25 +10,35 @@ The purpose of POWERs is to turn the spotlight on this issue, providing a venue 
 
 Topics of interest include (but are not limited to):
 
-* Characterization and formalization of realizable entities (e.g., single vs. multi-track dispositions, degree of realization, formalisms for reasoning based on dispositions).
+* **Formalization and Characterization**
 
-* Types of realizable entities (e.g., discussions on whether some core entities such as roles and biological/artifactual functions are realizable) and analysis of the contrast between dispositional and non-dispositional realizable entities.
+- Formal models and logics for realizable entities (e.g., single- vs. multi-track dispositions, degrees of realization, disposition-based reasoning)
 
-* Relation between realizable entities and entities from other categories (e.g., qualities, events).
+- Connections between realizable entities and other ontological categories (e.g., qualities, events)
 
-* Domain applications (e.g., biology, health sciences, industry, enterprise modeling).
+* **Types and Categories**
 
-* Philosophical investigations relevant to formal ontology, including:
+- Distinction between dispositional and non-dispositional realizable entities
 
-  - Is the distinction between realizable and non-realizable (sometimes called “categorical”) properties metaphysical or linguistic? 
+- Status of core entities (e.g., roles, biological/artifactual functions) as realizable entities or not
 
-  - Intrinsicness vs. extrinsicness of realizable entities
+* **Applications**
 
-  - How may the distinction between dispositions and powers be relevant for formal ontology?
+- Domain-specific uses in biology, health sciences, industry, enterprise modeling, and beyond.
 
-  - Can dispositions provide a good account of causation? Can they offer a good substitute for laws of nature in ontology?
+* **Philosophical Foundations**
 
-  - How could blocks, finks, and antidotes be relevant for applied ontology?
+- The metaphysical vs. linguistic nature of the distinction between realizable and non-realizable (“categorical”) properties
+
+- Intrinsicness and extrinsicness of realizable entities
+
+- The relevance of the disposition/power distinction for formal ontology
+
+- Dispositions in accounts of causation
+
+- The role of blocks, finks, and antidotes in applied ontology
+
+- Dispositions as substitutes for laws of nature in ontology
 
 
 ## Submissions
