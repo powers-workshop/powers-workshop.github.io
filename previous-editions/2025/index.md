@@ -1,5 +1,5 @@
 ---
-layout: archive-2025
+layout: default
 title: POWERs 2025
 ---
 <hr>
