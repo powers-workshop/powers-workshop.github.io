@@ -1,8 +1,7 @@
 ---
 layout: default
 edition: "2026"
-full_name: "Process and Object Workshop: Evolving Research and Standards"
-location: "Buffalo, NY (or Online/Co-located)"
+location: "Vitória, Brazil"
 dates: 
   - "Paper Submission: May 15, 2026"
   - "Notifications: June 20, 2026"
