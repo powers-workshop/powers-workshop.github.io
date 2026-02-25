@@ -1,26 +1,3 @@
-<hr>
-........
-## Workshop Program (Sep 8th)
-
-**14h30 - 16h00**
-
-<span style="color: #267CB9;font-weight:bold;">_Dispositions and Roles of Generically Dependent Entities_</span> <br>
-_(Fabian Neuhaus)_
-
-<span style="color: #267CB9;font-weight:bold;">_Toward a Unified Framework for Realizable Entities: Dispositions, Plans, and Beyond_</span> <br>
-_(Stefan Schulz, Michel Dumontier, Çelebi Remzi, Serafimova Katerina and Catalina Martínez Costa)_
-
-**16h30 - 18h00**
-
-<span style="color: #267CB9;font-weight:bold;">_Triggers and Bases: Extending BFO to Represent the Pahl–Beitz Framework for Working Principles_</span> <br>
-_(Ludger Jansen and Dilek Yargan)_
-
-<span style="color: #267CB9;font-weight:bold;">_Challenged by vulnerabilities: a focus on climate change and disaster risk conceptualisations, semantics, and debates_</span> <br>
-_(Greta Adamo, Max Willis, Alessandro Mosca and Anna Sperotto)_
-
-<hr>
-
-
 ## About the Workshop
 
 There is a long-standing view according to which potency precedes actuality. Under this view, the happening of an event consists in the realization or manifestation of potentialities that already exist in the event’s participants. Indeed, the world seems full of entities that encapsulate such potentialities, which we usually refer to as realizable entities, with dispositions being among the most significant. A disposition is an entity that inheres in another entity and determines the behavior of the latter under certain circumstances. Dispositions are closely related to the causal powers that objects have in the world and encompass what we usually call abilities, capabilities, tendencies, propensities, liabilities, capacities, and so on.
