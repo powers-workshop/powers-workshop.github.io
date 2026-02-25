@@ -1,6 +1,6 @@
 ---
 layout: default
-title: POWERs 2026
+edition: "2026"
 ---
 
 ## About the Workshop
