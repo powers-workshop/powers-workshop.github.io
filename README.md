@@ -47,11 +47,11 @@ We welcome three types of contributions:
 
 * **Abstract for presentation only**: 2-3 pages, 10-15 minutes presentation (not included in the proceedings);
 
-* **Short papers**: 6-8 pages, 10-15 minutes presentation;
+* **Short papers**: 6-9 pages, 10-15 minutes presentation;
 
 * **Full research papers**: 10-14 pages, 20-25 minutes presentation.
 
-Submissions must be sent via Easychair (<a href="https://easychair.org/my/conference?conf=fois2025">https://easychair.org/my/conference?conf=fois2025</a> - select the track “_WS: Entities that can be Realized_”).
+Submissions must be sent via Easychair (further detials coming soon).
 
 All contributions must be submitted as a single PDF file and must adhere to the one-column CEUR template. Here are instructions from the <a href="https://ceur-ws.org/HOWTOSUBMIT.html">How To Submit</a> CEUR webpage:
   
@@ -65,13 +65,13 @@ All contributions must be submitted as a single PDF file and must adhere to the 
 > It contains the LaTeX CEURART style and also the ODT (LibreOffice) template file. Do not use Word for the ODT template. We require that the Libertinus font family is used in CEURART. Instructions on installing these fonts are found in the
 > <a herf="https://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt">ODT template</a>. […]_”
 
-Submissions including semantic artefacts, methodologies, softwares, etc, need to adhere to the <a href="https://www.dmi.unict.it/fois2025/?page_id=303">FAIR guidelines</a>.
+Submissions including semantic artefacts, methodologies, softwares, etc, need to adhere to the <a href="https://foisconference.org/fair4fois/">FAIR guidelines</a>.
 
 ## Organization
 
 ### Workshop Chairs
 
-* Fabrício Henrique Rodrigues -- Federal University of Rio Grande do Sul (UFRGS), Brazil / Samsung R&D Institute, Brazil
+* Fabrício Henrique Rodrigues -- University at Buffalo, USA
 
 * Adrien Barton -- CNRS, Institut de Recherche en Informatique de Toulouse (IRIT), France
 
