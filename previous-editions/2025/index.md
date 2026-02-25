@@ -1,4 +1,7 @@
-
+---
+layout: archive-2025
+title: POWERs 2025
+---
 <hr>
 
 ## Workshop Program (Sep 8th)
