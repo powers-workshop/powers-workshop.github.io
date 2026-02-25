@@ -12,33 +12,33 @@ Topics of interest include (but are not limited to):
 
 * **Formalization and Characterization**
 
-- Formal models and logics for realizable entities (e.g., single- vs. multi-track dispositions, degrees of realization, disposition-based reasoning)
+  - Formal models and logics for realizable entities (e.g., single- vs. multi-track dispositions, degrees of realization, disposition-based reasoning)
 
-- Connections between realizable entities and other ontological categories (e.g., qualities, events)
+  - Connections between realizable entities and other ontological categories (e.g., qualities, events)
 
 * **Types and Categories**
 
-- Distinction between dispositional and non-dispositional realizable entities
+  - Distinction between dispositional and non-dispositional realizable entities
 
-- Status of core entities (e.g., roles, biological/artifactual functions) as realizable entities or not
+  - Status of core entities (e.g., roles, biological/artifactual functions) as realizable entities or not
 
 * **Applications**
 
-- Domain-specific uses in biology, health sciences, industry, enterprise modeling, and beyond.
+  - Domain-specific uses in biology, health sciences, industry, enterprise modeling, and beyond.
 
 * **Philosophical Foundations**
 
-- The metaphysical vs. linguistic nature of the distinction between realizable and non-realizable (“categorical”) properties
+  - The metaphysical vs. linguistic nature of the distinction between realizable and non-realizable (“categorical”) properties
 
-- Intrinsicness and extrinsicness of realizable entities
+  - Intrinsicness and extrinsicness of realizable entities
 
-- The relevance of the disposition/power distinction for formal ontology
+  - The relevance of the disposition/power distinction for formal ontology
 
-- Dispositions in accounts of causation
+  - Dispositions in accounts of causation
 
-- The role of blocks, finks, and antidotes in applied ontology
+  - The role of blocks, finks, and antidotes in applied ontology
 
-- Dispositions as substitutes for laws of nature in ontology
+  - Dispositions as substitutes for laws of nature in ontology
 
 
 ## Submissions
