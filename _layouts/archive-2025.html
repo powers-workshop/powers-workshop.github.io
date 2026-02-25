@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  
+  <body style="font-size: 1em">
+  
+    <div class="wrapper">
+      <header>
+        <h1 style="font-size: 40px;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+        <p>
+          Part of the 11th Joint Ontology Workshops (<a href="https://www.dmi.unict.it/fois2025/?page_id=499">JOWO 2025</a>)<br>
+          Catania, Italy - September 8-9, 2025<br>
+          (Co-located with <a href="https://www.dmi.unict.it/fois2025/">FOIS 2025</a>)
+        </p>
+
+        <hr>
+        
+        <h3 id="important-dates" style="color: maroon;">IMPORTANT DATES</h3>
+        
+        
+        <p><strong>Paper submission deadline</strong>: <s>25 May 2025</s> <em style="color: maroon;">14 June 2025 (FINAL) </em></p>
+        
+        <p><strong>Authors notification</strong>: <em>14 July 2025</em></p>
+        
+        <p><strong>Camera-ready submission</strong>: <em>1 September 2025</em></p>
+        
+        <p><strong>Workshop</strong>: 8 September 2025 </p>
+        
+        <hr>
+
+        <strong>
+            Contact: <a href="mailto:powers.workshop@gmail.com">powers.workshop@gmail.com</a>
+        </strong>
+
+        
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <!--p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p-->
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
