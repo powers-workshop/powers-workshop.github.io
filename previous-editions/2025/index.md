@@ -1,6 +1,7 @@
 ---
 layout: archive-2025
 title: POWERs 2025
+description: Perspectival Ontology Workshop on Entities that can be Realized
 ---
 <hr>
 
