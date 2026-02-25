@@ -67,22 +67,4 @@ Submissions including semantic artefacts, methodologies, softwares, etc, need to
 
 ### Program Comittee
 
-* João Paulo Almeida -- Federal University of Espírito Santo, Brazil
-
-* John Beverley -- University at Buffalo, USA
-  
-* Stefano Borgo -- Laboratory for Applied Ontology, ISTC-CNR, Italy
-
-* Rodrigo Calhau  -- Federal Institute of Espírito Santo, Brazil
-
-* Giancarlo Guizzardi -- University of Twente, Netherlands
-
-* Ludger Jansen -- PTH Brixen College, Italy
-
-* Max Kistler -- University Paris 1 Panthéon-Sorbonne, France
-
-* Ítalo Oliveira -- University of Twente, Netherlands
-  
-* Barry Smith -- University at Buffalo, USA
-
-* Fumiaki Toyoshima -- Université de Neuchâtel, Switzerland
+TBD
