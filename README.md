@@ -80,20 +80,20 @@ Submissions including semantic artefacts, methodologies, softwares, etc, need to
 
 * Cauã Roca Antunes -- Federal University of Rio Grande do Sul, Brazil
 
-### Program Comittee
+### Program Comittee (still to be completed)
 
-Greta Adamo -- 	Free University of Bozen-Bolzano, Italy
+* Greta Adamo -- 	Free University of Bozen-Bolzano, Italy
  
-João Paulo Almeida -- Federal University of Espírito Santo, Brazil
+* João Paulo Almeida -- Federal University of Espírito Santo, Brazil
 
-John Beverley -- University at Buffalo, USA
+* John Beverley -- University at Buffalo, USA
 
-Andrea Borghini -- University of Milan, Italy
+* Andrea Borghini -- University of Milan, Italy
 
-Rodrigo Calhau -- Federal Institute of Espírito Santo, Brazil
+* Rodrigo Calhau -- Federal Institute of Espírito Santo, Brazil
 
-Francesco Compagno -- University of Amsterdam, The Netherlands
+* Francesco Compagno -- University of Amsterdam, The Netherlands
 
-Ludger Jansen -- PTH Brixen College, Italy
+* Ludger Jansen -- PTH Brixen College, Italy
 
-Fumiaki Toyoshima -- Université de Neuchâtel, Switzerland
+* Fumiaki Toyoshima -- Université de Neuchâtel, Switzerland
