@@ -82,4 +82,18 @@ Submissions including semantic artefacts, methodologies, softwares, etc, need to
 
 ### Program Comittee
 
-TBD
+Greta Adamo -- 	Free University of Bozen-Bolzano, Italy
+ 
+João Paulo Almeida -- Federal University of Espírito Santo, Brazil
+
+John Beverley -- University at Buffalo, USA
+
+Andrea Borghini -- University of Milan, Italy
+
+Rodrigo Calhau -- Federal Institute of Espírito Santo, Brazil
+
+Francesco Compagno -- University of Amsterdam, The Netherlands
+
+Ludger Jansen -- PTH Brixen College, Italy
+
+Fumiaki Toyoshima -- Université de Neuchâtel, Switzerland
