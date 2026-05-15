@@ -78,6 +78,8 @@ Submissions including semantic artefacts, methodologies, softwares, etc, need to
 
 * Adrien Barton -- CNRS, Institut de Recherche en Informatique de Toulouse (IRIT), France
 
+* Cauã Roca Antunes -- Federal University of Rio Grande do Sul, Brazil
+
 ### Program Comittee
 
 TBD
